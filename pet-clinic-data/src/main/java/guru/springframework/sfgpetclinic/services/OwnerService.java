@@ -4,8 +4,6 @@ import guru.springframework.sfgpetclinic.model.Owner;
 
 import java.util.List;
 
-
-// Section 3.50 uses ID instead of lastName
 /**
  * Created by jt on 7/18/18.
  */
